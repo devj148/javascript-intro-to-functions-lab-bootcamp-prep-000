@@ -18,3 +18,10 @@ function logWhisper(a){
   console.log(a);
 }
 
+function sayHiToGrandma(a){
+  if(a === a.toLowerCase){
+    return a;
+  }
+}
+
+function
