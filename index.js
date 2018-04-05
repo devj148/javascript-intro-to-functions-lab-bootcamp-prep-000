@@ -3,7 +3,7 @@ function shout(a){
   return a
 }
 
-function shout(a){
-  a = a.toUpperCase();
+function whisper(a){
+  a = a.toLowerCase();
   return a
 }
